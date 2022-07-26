@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bujacargo/static/css/main.00c5249e.css",
-    "main.js": "/bujacargo/static/js/main.31a80f1d.js",
+    "main.css": "/bujacargo/static/css/main.45e1116f.css",
+    "main.js": "/bujacargo/static/js/main.cab06c90.js",
     "static/media/img-carousel3.jpg": "/bujacargo/static/media/img-carousel3.9437cb3fb46ba8749843.jpg",
     "static/media/img-carousel1.jpg": "/bujacargo/static/media/img-carousel1.8c8369cc8f67d73d2dce.jpg",
     "static/media/img-carousel2.jpg": "/bujacargo/static/media/img-carousel2.6fa4673de8dc6e08fcc4.jpg",
@@ -22,6 +22,8 @@
     "static/media/icomoon.woff?a2c2ra": "/bujacargo/static/media/icomoon.91964ff2d25505c2d8fb.woff",
     "static/media/icomoon.ttf?a2c2ra": "/bujacargo/static/media/icomoon.f09aaf8035cbfc67f50a.ttf",
     "static/media/fi-furgon.svg": "/bujacargo/static/media/fi-furgon.1b93164c1203dff2846c.svg",
+    "static/media/2C24DD21.png": "/bujacargo/static/media/2C24DD21.bc77b001578230e23c9c.png",
+    "static/media/5BBFB4DE.png": "/bujacargo/static/media/5BBFB4DE.522af1a36d19d340dc9f.png",
     "static/media/fi-protocolo.svg": "/bujacargo/static/media/fi-protocolo.c6b480a44e6fb91d4300.svg",
     "static/media/logo1.svg": "/bujacargo/static/media/logo1.958e7d840a62824b0702.svg",
     "static/media/whatsapp.svg": "/bujacargo/static/media/whatsapp.328dc4dc32d01eb77820.svg",
@@ -35,11 +37,11 @@
     "static/media/logo caja.svg": "/bujacargo/static/media/logo caja.46b6d605011ba83fc8cf.svg",
     "static/media/facebook.svg": "/bujacargo/static/media/facebook.4bf503b3da21cf16aec1.svg",
     "index.html": "/bujacargo/index.html",
-    "main.00c5249e.css.map": "/bujacargo/static/css/main.00c5249e.css.map",
-    "main.31a80f1d.js.map": "/bujacargo/static/js/main.31a80f1d.js.map"
+    "main.45e1116f.css.map": "/bujacargo/static/css/main.45e1116f.css.map",
+    "main.cab06c90.js.map": "/bujacargo/static/js/main.cab06c90.js.map"
   },
   "entrypoints": [
-    "static/css/main.00c5249e.css",
-    "static/js/main.31a80f1d.js"
+    "static/css/main.45e1116f.css",
+    "static/js/main.cab06c90.js"
   ]
 }
