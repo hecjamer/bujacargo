@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bujacargo/static/css/main.45e1116f.css",
-    "main.js": "/bujacargo/static/js/main.cab06c90.js",
+    "main.css": "/bujacargo/static/css/main.8e4bae0a.css",
+    "main.js": "/bujacargo/static/js/main.d15608e7.js",
     "static/media/img-carousel3.jpg": "/bujacargo/static/media/img-carousel3.9437cb3fb46ba8749843.jpg",
     "static/media/img-carousel1.jpg": "/bujacargo/static/media/img-carousel1.8c8369cc8f67d73d2dce.jpg",
     "static/media/img-carousel2.jpg": "/bujacargo/static/media/img-carousel2.6fa4673de8dc6e08fcc4.jpg",
@@ -37,11 +37,11 @@
     "static/media/logo caja.svg": "/bujacargo/static/media/logo caja.46b6d605011ba83fc8cf.svg",
     "static/media/facebook.svg": "/bujacargo/static/media/facebook.4bf503b3da21cf16aec1.svg",
     "index.html": "/bujacargo/index.html",
-    "main.45e1116f.css.map": "/bujacargo/static/css/main.45e1116f.css.map",
-    "main.cab06c90.js.map": "/bujacargo/static/js/main.cab06c90.js.map"
+    "main.8e4bae0a.css.map": "/bujacargo/static/css/main.8e4bae0a.css.map",
+    "main.d15608e7.js.map": "/bujacargo/static/js/main.d15608e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.45e1116f.css",
-    "static/js/main.cab06c90.js"
+    "static/css/main.8e4bae0a.css",
+    "static/js/main.d15608e7.js"
   ]
 }
