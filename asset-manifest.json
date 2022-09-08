@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/bujacargo/static/css/main.eb6c6eca.css",
-    "main.js": "/bujacargo/static/js/main.4c30780e.js",
+    "main.css": "/bujacargo/static/css/main.6795a2c8.css",
+    "main.js": "/bujacargo/static/js/main.73a086a3.js",
     "static/media/foundation-icons.svg": "/bujacargo/static/media/foundation-icons.4fa9a353aa62a0124d72.svg",
-    "static/media/icomoon.svg?a2c2ra": "/bujacargo/static/media/icomoon.43bc76d27f43fbf1c88a.svg",
+    "static/media/icomoon.svg?a2c2ra": "/bujacargo/static/media/icomoon.9a4ab1d9f1bf1dd53050.svg",
     "static/media/foundation-icons.ttf": "/bujacargo/static/media/foundation-icons.c0cbb004854f9c746f89.ttf",
     "static/media/foundation-icons.eot": "/bujacargo/static/media/foundation-icons.b97e770b0e3c6ebed11d.eot",
     "static/media/foundation-icons.woff": "/bujacargo/static/media/foundation-icons.e765a16d11a4a296dc00.woff",
@@ -14,16 +14,20 @@
     "static/media/fi-protocolo.svg": "/bujacargo/static/media/fi-protocolo.c6b480a44e6fb91d4300.svg",
     "static/media/whatsapp.svg": "/bujacargo/static/media/whatsapp.328dc4dc32d01eb77820.svg",
     "static/media/github.svg": "/bujacargo/static/media/github.38e30528403ba22e3cb6.svg",
+    "static/media/icomoon.svg?mslzha": "/bujacargo/static/media/icomoon.a536179eea1dc9ecab35.svg",
     "static/media/fi-bujacargo.svg": "/bujacargo/static/media/fi-bujacargo.2f716417c4c5247e8dc1.svg",
+    "static/media/icomoon.eot?mslzha": "/bujacargo/static/media/icomoon.c53004b1a39bf69a29b9.eot",
+    "static/media/icomoon.woff?mslzha": "/bujacargo/static/media/icomoon.a298f1a6d5380242bf61.woff",
+    "static/media/icomoon.ttf?mslzha": "/bujacargo/static/media/icomoon.66b74be1c2ec7e48e467.ttf",
     "static/media/twitter.svg": "/bujacargo/static/media/twitter.0f61c06b1bdbee5c716c.svg",
     "static/media/instagram.svg": "/bujacargo/static/media/instagram.fa0d73713d1c15a87aec.svg",
     "static/media/facebook.svg": "/bujacargo/static/media/facebook.4bf503b3da21cf16aec1.svg",
     "index.html": "/bujacargo/index.html",
-    "main.eb6c6eca.css.map": "/bujacargo/static/css/main.eb6c6eca.css.map",
-    "main.4c30780e.js.map": "/bujacargo/static/js/main.4c30780e.js.map"
+    "main.6795a2c8.css.map": "/bujacargo/static/css/main.6795a2c8.css.map",
+    "main.73a086a3.js.map": "/bujacargo/static/js/main.73a086a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb6c6eca.css",
-    "static/js/main.4c30780e.js"
+    "static/css/main.6795a2c8.css",
+    "static/js/main.73a086a3.js"
   ]
 }
